@@ -1,8 +1,10 @@
 # exam-preparation-site
 This is a project that acts as an example preparation site for multiple courses.
 
-Create Virtual Environment python -m venv venv
-venv activate command:     Set-ExecutionPolicy RemoteSigned -Scope Process
-Activate Virtual Environment         venv/scripts/activate
-install requirements        pip install -r requirements.txt
-run app         python app.py
+=======
+1. Create Virtual Environment    python -m venv venv
+2. venv activate command:        Set-ExecutionPolicy RemoteSigned -Scope Process
+3. Activate Virtual Environment  venv/scripts/activate
+4. install requirements        pip install -r requirements.txt
+5. run app         python app.py
+>>>>>>> b1b9b99a26dd773627f41e80c4dffc06021e1498
