@@ -7,4 +7,3 @@ This is a project that acts as an example preparation site for multiple courses.
 3. Activate Virtual Environment  venv/scripts/activate
 4. install requirements        pip install -r requirements.txt
 5. run app         python app.py
->>>>>>> b1b9b99a26dd773627f41e80c4dffc06021e1498
